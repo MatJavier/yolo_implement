@@ -12,3 +12,5 @@ Sistema de detección de objetos en tiempo real usando YOLOv8 y OpenCV.
 ```bash
 pip install -r requirements.txt
 python main.py
+
+**Tip:** Puedes presionar `ESC` o `Q` para cerrar la aplicación.
